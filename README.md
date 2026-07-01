@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SJLee-0525/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/SJLee-0525/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,16 +31,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SJLee-0525/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SJLee-0525/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
