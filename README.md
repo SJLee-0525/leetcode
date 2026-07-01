@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SJLee-0525/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SJLee-0525/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/SJLee-0525/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/SJLee-0525/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/SJLee-0525/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
