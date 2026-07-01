@@ -48,5 +48,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SJLee-0525/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/SJLee-0525/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SJLee-0525/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SJLee-0525/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
