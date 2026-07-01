@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/SJLee-0525/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Array
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/SJLee-0525/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SJLee-0525/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/SJLee-0525/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SJLee-0525/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
@@ -82,4 +84,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SJLee-0525/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
