@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/SJLee-0525/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SJLee-0525/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/SJLee-0525/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
