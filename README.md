@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/SJLee-0525/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/SJLee-0525/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SJLee-0525/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/SJLee-0525/leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/SJLee-0525/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SJLee-0525/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
