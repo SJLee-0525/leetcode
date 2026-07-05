@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/SJLee-0525/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SJLee-0525/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/SJLee-0525/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 <!---LeetCode Topics End-->
