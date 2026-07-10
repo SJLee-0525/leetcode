@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SJLee-0525/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SJLee-0525/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/SJLee-0525/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0046-permutations](https://github.com/SJLee-0525/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/SJLee-0525/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -166,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/SJLee-0525/leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
