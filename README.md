@@ -195,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/SJLee-0525/leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
