@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/SJLee-0525/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SJLee-0525/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SJLee-0525/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/SJLee-0525/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SJLee-0525/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SJLee-0525/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/SJLee-0525/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SJLee-0525/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/SJLee-0525/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SJLee-0525/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SJLee-0525/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SJLee-0525/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/SJLee-0525/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/SJLee-0525/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SJLee-0525/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -179,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/SJLee-0525/leetcode/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
