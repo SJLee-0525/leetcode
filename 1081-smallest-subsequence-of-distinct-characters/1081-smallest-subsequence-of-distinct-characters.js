@@ -11,14 +11,6 @@ var smallestSubsequence = function (s) {
         if (last[s[l].charCodeAt() - 97] === -1) last[s[l].charCodeAt() - 97] = l;
     };
 
-    function isAgain(w, i) {
-        for (let j = i + 1; j < s.length; j++) {
-            if (w === s[j]) return true;
-        };
-
-        return false;
-    };
-
     for (let c = 0; c < s.length; c++) {
         const ascii = s[c].charCodeAt() - 97;
         if (used[ascii]) continue;
