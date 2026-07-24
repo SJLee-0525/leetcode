@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/SJLee-0525/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/SJLee-0525/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SJLee-0525/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SJLee-0525/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SJLee-0525/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
@@ -232,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SJLee-0525/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SJLee-0525/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
