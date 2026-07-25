@@ -4,8 +4,6 @@
  */
 var simplifyPath = function(path) {
     const pathArr = path.split('/');
-    console.log(pathArr)
-
     const stack = Array();
 
     for (const c of pathArr) {
