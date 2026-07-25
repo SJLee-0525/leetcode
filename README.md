@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/SJLee-0525/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SJLee-0525/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SJLee-0525/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/SJLee-0525/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SJLee-0525/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/SJLee-0525/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SJLee-0525/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SJLee-0525/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/SJLee-0525/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SJLee-0525/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/SJLee-0525/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SJLee-0525/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SJLee-0525/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/SJLee-0525/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SJLee-0525/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SJLee-0525/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Simulation
