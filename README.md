@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/SJLee-0525/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SJLee-0525/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SJLee-0525/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0071-simplify-path](https://github.com/SJLee-0525/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/SJLee-0525/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/SJLee-0525/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SJLee-0525/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/SJLee-0525/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/SJLee-0525/leetcode/tree/main/0155-min-stack/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SJLee-0525/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
