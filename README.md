@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/SJLee-0525/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SJLee-0525/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/SJLee-0525/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SJLee-0525/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/SJLee-0525/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SJLee-0525/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SJLee-0525/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/SJLee-0525/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
