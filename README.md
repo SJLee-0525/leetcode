@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/SJLee-0525/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SJLee-0525/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SJLee-0525/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SJLee-0525/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SJLee-0525/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/SJLee-0525/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0384-shuffle-an-array](https://github.com/SJLee-0525/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SJLee-0525/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SJLee-0525/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/SJLee-0525/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SJLee-0525/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SJLee-0525/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SJLee-0525/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SJLee-0525/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
